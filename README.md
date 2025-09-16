@@ -1,2 +1,2 @@
 # nf-practice-1
-Latihan dari NF Academy
+Ini adalah project pertama gituhub dari NF Academy
